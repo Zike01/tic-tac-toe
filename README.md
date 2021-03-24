@@ -1,2 +1,2 @@
-# tic-tac-toe
+# Tic Tac Toe
 A python text-based version of the Tic Tac Toe game.
